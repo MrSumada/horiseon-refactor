@@ -1,19 +1,17 @@
-# horiseon-refactor
+# Refactor for Horseon includes: 
 
-Refactor for Horseon includes: 
-
-  Addition of descriptive title
+  - Addition of descriptive title
   
-  Addition of semanitc html
+  - Addition of semanitc html
   
-  Improved logical CSS flow
+  - Improved logical **CSS** flow
   
-  Consolidation of CSS attributes
+  - Consolidation of **CSS** attributes
   
-  Addition of alt attributes for images
+  - Addition of alt attributes for images
   
-  Fixed navigation links
+  - Fixed navigation links
   
-  Resequencing of the heading attributes, specifically regarding the footer h2 -> h3
+  - Resequencing of the heading attributes, specifically regarding the footer h2 -> h3
   
-  Addition of descriptive HTML and CSS comments
+  - Addition of descriptive **HTML** and **CSS** comments
