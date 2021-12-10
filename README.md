@@ -15,3 +15,5 @@
   - Resequencing of the heading attributes, specifically regarding the footer h2 -> h3
   
   - Addition of descriptive **HTML** and **CSS** comments
+
+  ![Horiseon logo](./assets/images/horiseon-logo.png)
