@@ -4,9 +4,9 @@ Refactor for Horseon includes:
 
   Addition of descriptive title
   
-  Addition of Semanitc html
+  Addition of semanitc html
   
-  Improved Logical CSS flow
+  Improved logical CSS flow
   
   Consolidation of CSS attributes
   
