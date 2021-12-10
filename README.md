@@ -1,4 +1,4 @@
-# Refactor for Horseon includes: 
+# Refactor for Horiseon includes: 
 
   - Addition of descriptive title
   
