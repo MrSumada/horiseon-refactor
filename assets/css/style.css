@@ -30,6 +30,7 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 header h1 .seo {
@@ -52,6 +53,10 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+header nav ul li a {
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 /* Footer */
