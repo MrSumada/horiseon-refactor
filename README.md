@@ -1,8 +1,8 @@
 # HORISEON
 
-https://mrsumada.github.io/horiseon-refactor/
+**Live URL**: https://mrsumada.github.io/horiseon-refactor/
 
-<img width="1048" alt="Horiseon Screenshot" src="assets/images/horiseon-screenshot">
+<img width="1048" alt="Horiseon Screenshot" src="assets/images/horiseon-screenshot.png">
 
 ## Refactor for Horiseon includes: 
 
