@@ -1,4 +1,10 @@
-# Refactor for Horiseon includes: 
+# HORISEON
+
+https://mrsumada.github.io/horiseon-refactor/
+
+<img width="1048" alt="Horiseon Screenshot" src="assets/images/horiseon-screenshot">
+
+## Refactor for Horiseon includes: 
 
   - Addition of descriptive title
   
