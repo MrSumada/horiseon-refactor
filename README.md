@@ -10,9 +10,9 @@
   
   - Online reputation management
 
-  - Social edia marketing
+  - Social media marketing
 
-  - And more strategy-focused actions that put your business and your customers first.
+  - And even more strategy-focused actions that put your business and your customers first.
   
 
 ## The Refactor for Horiseon includes: 
