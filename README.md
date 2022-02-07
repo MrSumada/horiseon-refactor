@@ -4,7 +4,18 @@
 
 <img width="1048" alt="Horiseon Screenshot" src="assets/images/horiseon-screenshot.png">
 
-## Refactor for Horiseon includes: 
+## What Does Horiseon do?
+
+  - Search engine optimization
+  
+  - Online reputation management
+
+  - Social edia marketing
+
+  - And more strategy-focused actions that put your business and your customers first.
+  
+
+## The Refactor for Horiseon includes: 
 
   - Addition of descriptive title
   
